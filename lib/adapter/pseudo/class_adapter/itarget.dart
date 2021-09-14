@@ -1,4 +1,4 @@
-import 'package:design_pattern/adapter/pseudo/object_adapter/Adaptee.dart';
+import 'package:design_pattern/adapter/pseudo/class_adapter/Adaptee.dart';
 
 /// <summary>
 /// Adapter 的抽象介面
